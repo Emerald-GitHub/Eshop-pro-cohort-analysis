@@ -1,4 +1,4 @@
-CustomerID,Recency,Frequency,Monetary,Tenure
+CustomerID,Recency,Tenure,Frequency,Monetary
 12346.0,5203,0,2,5342.4
 12347.0,4880,365,7,431501.0
 12348.0,4953,282,4,82378.47
